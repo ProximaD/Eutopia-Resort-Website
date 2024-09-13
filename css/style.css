@@ -157,6 +157,38 @@ img{
     align-content: center;
 }
 
+.islands__subtitle,
+.islands__title,
+.islands__description{
+    color: var(--first-color-lighter);
+}
+
+.islands__subtitle{
+    font-size: var(--big-font-size);
+    font-weight: var(--font-medium);
+}
+
+.islands__title{
+    font-size: var(--biggest-font-size);
+}
+
+.islands__description{
+    margin-bottom: 1rem;
+}
+
+.islands__button{
+    display: inline-flex;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    background-color: var(--first-color-lighter);
+    color: var(--first-color);
+    border-radius: .5rem;
+    font-weight: var(--font-medium);
+}
+
+.islands__button:hover{
+    background-color: var(--body-color);
+}
 
 
 
