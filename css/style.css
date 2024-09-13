@@ -191,6 +191,47 @@ img{
 }
 
 
+.islands__button-icon{
+    font-size: 1.5rem;
+    margin-left: .5rem;
+}
+
+.islands__video{
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: .75rem;
+}
+
+.islands__video-content{
+    display: inline-flex;
+    padding: .15rem;
+    background-color: var(--first-color-lighter);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.islands__video-icon{
+    font-size: 1.8rem;
+    color: var(--first-color);
+}
+
+
+
+
+
+/* Show popups */
+
+
+
+/* Controls */
+
+
+/* Active nControls */
+
+
+
+/*========== MEDIA QUERIES ==========*/
+
 
 
 
