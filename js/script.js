@@ -35,6 +35,3 @@ btnCloseVideo.addEventListener('click', ()=>{
 })
 
 /*============= GSAP ANIMATION ===========*/
-
-
-
