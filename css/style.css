@@ -64,6 +64,7 @@ img{
     max-width: 100%;
     height: auto;
 }
+
 /*========== LAYOUT ==========*/
 .main{
     position: relative;
@@ -74,6 +75,7 @@ img{
     margin-left: 1.5rem;
     margin-right: 1.5rem;
 }
+
 /*========== HEADER ==========*/
 .header{
     width: 100%;
@@ -107,11 +109,10 @@ img{
         transition: .4s;
     }
 }
-/*========== NAV ==========*/
 
 .nav__logo,
 .nav__toggle{
-    /* color: var(--first-color-lighter); */
+    color: var(--first-color-lighter);
 }
 
 .nav__link{
@@ -189,7 +190,6 @@ img{
 .islands__button:hover{
     background-color: var(--body-color);
 }
-
 
 .islands__button-icon{
     font-size: 1.5rem;
@@ -271,22 +271,11 @@ img{
 }
 
 
-
-/* Show popups */
-
-
-
-/* Controls */
-
-
-/* Active nControls */
+/* Active Controls */
 
 
 
 /*========== MEDIA QUERIES ==========*/
-
-
-
 
 
 
