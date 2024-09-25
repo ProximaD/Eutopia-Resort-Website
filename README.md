@@ -1,12 +1,12 @@
 
 # Sandra Lavenda's Portfolio
 
-# Responsive-Island-Resort-website
-
-. Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-. With animations when scrolling.
-. Developed first with the Mobile First methodology, then for desktop.
-. Compatible with all mobile devices and with a beautiful and pleasant user interface.
+# Responsive-Headphones-website with:
+1. Beautiful 'Eutopia Resort Website' using HTML, CSS and JAVASCRIPT. 
+2. Beautiful interface. 
+3. Engaging animations transitions when scrolling. 
+4. Developed first with the Mobile First methodology, then for desktop. 
+5. Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 # Getting Started 
 
